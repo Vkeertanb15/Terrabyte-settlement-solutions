@@ -107,15 +107,3 @@ TerraByte directly addresses the problem of **inefficient resource allocation in
 ## Team- Prometheus
 
 
-
-
-
-
-
-
-
----
-
-## 👨‍💻 Team
-
-- Your Name
