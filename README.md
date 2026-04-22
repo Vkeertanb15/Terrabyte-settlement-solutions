@@ -5,7 +5,7 @@ AI-powered real estate risk and livability analysis platform, for smart and effi
 
 ---
 
-## 🚨 Problem Statement
+##  Problem Statement
 
 In India, people invest their life savings into real estate without access to critical risk information such as flood-prone zones, pollution levels, and legal disputes.
 
@@ -21,24 +21,24 @@ The platform generates a personalized **Livability Score**, helping users alloca
 
 ---
 
-## ⚙️ Key Features
+##  Key Features
 
-- 📊 AI-based Livability Score (out of 10)
-- 🌫️ Air Quality (AQI insights)
-- 🌊 Flood Risk Awareness
-- 🗺️ Interactive Map Integration
-- ⚖️ Risk-informed Property Listings
-- 👤 Personalized Preferences
+-  AI-based Livability Score (out of 10)
+-  Air Quality (AQI insights)
+-  Flood Risk Awareness
+-  Interactive Map Integration
+-  Risk-informed Property Listings
+-  Personalized Preferences
 
 ---
 
-## 🧠 AI Implementation & Google Technologies
+##  AI Implementation & Google Technologies
 
 This project leverages AI-driven insights inspired by modern intelligent systems and integrates capabilities aligned with Google technologies:
 
-- 🤖 Natural language interaction powered by **Google Gemini AI** for intuitive property search (e.g., "low pollution 2BHK in Bangalore")
-- 🗺️ Scalable geospatial visualization using map-based interfaces (designed for compatibility with Google Maps Platform)
-- 📊 Intelligent scoring system that mimics real-world AI decision models
+-  Natural language interaction powered by **Google Gemini AI** for intuitive property search (e.g., "low pollution 2BHK in Bangalore")
+-  Scalable geospatial visualization using map-based interfaces (designed for compatibility with Google Maps Platform)
+-  Intelligent scoring system that mimics real-world AI decision models
 
 The AI model evaluates:
 
@@ -47,17 +47,17 @@ The AI model evaluates:
 - Affordability vs market trends
 - User preferences
 
-👉 Output: A dynamic and personalized **Livability Score** that promotes smarter decision-making.
+ Output: A dynamic and personalized **Livability Score** that promotes smarter decision-making.
 
 ---
 
-## 🌐 Live Prototype
+##  Live Prototype
 
 👉 https://id-preview--e32f4648-250d-4e35-a577-4927150cb3a8.lovable.app/
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - Frontend: Lovable AI Builder  
 - AI Layer: Google Gemini AI (for intelligent query handling)  
@@ -66,7 +66,7 @@ The AI model evaluates:
 
 ---
 
-## 🌍 Smart Resource Allocation Impact
+##  Smart Resource Allocation Impact
 
 TerraByte directly addresses the problem of **inefficient resource allocation in real estate** by:
 
@@ -77,7 +77,7 @@ TerraByte directly addresses the problem of **inefficient resource allocation in
 
 ---
 
-## 🚀 Future Scope
+##  Future Scope
 
 - Integration with Google Maps Platform APIs  
 - Real-time government and environmental datasets  
@@ -87,7 +87,7 @@ TerraByte directly addresses the problem of **inefficient resource allocation in
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
  -Home page
 <img width="1920" height="1140" alt="Screenshot 2026-04-22 232056" src="https://github.com/user-attachments/assets/100007ef-d1fc-4fc4-bd24-667da2b8d8bc" />
 <img width="1920" height="1140" alt="Screenshot 2026-04-22 232119" src="https://github.com/user-attachments/assets/f4dcf0a9-428b-4ea0-b016-bdad307d04f2" />
@@ -104,7 +104,7 @@ TerraByte directly addresses the problem of **inefficient resource allocation in
 <img width="1920" height="1140" alt="Screenshot 2026-04-22 232359" src="https://github.com/user-attachments/assets/69202ba8-1e00-4713-8914-7dc925bfe533" />
 <img width="1920" height="1140" alt="Screenshot 2026-04-22 232412" src="https://github.com/user-attachments/assets/51da5daf-bdd9-41dc-ba58-88d63cc6335a" />
 
-
+## Team- Prometheus
 
 
 
