@@ -88,8 +88,30 @@ TerraByte directly addresses the problem of **inefficient resource allocation in
 ---
 
 ## 📸 Screenshots
+ -Home page
+<img width="1920" height="1140" alt="Screenshot 2026-04-22 232056" src="https://github.com/user-attachments/assets/100007ef-d1fc-4fc4-bd24-667da2b8d8bc" />
+<img width="1920" height="1140" alt="Screenshot 2026-04-22 232119" src="https://github.com/user-attachments/assets/f4dcf0a9-428b-4ea0-b016-bdad307d04f2" />
 
-<img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/7d8d42dc-15e5-44ee-bf1c-64e6d7868f1d" />
+ -Using Google Gemini
+<img width="1920" height="1140" alt="Screenshot 2026-04-22 232155" src="https://github.com/user-attachments/assets/aae0dcab-fef8-4de3-a50b-7779b28f8873" />
+
+-Property cards based on user requirements
+<img width="1920" height="1140" alt="Screenshot 2026-04-22 232237" src="https://github.com/user-attachments/assets/11b57f89-7c82-4d14-ab7f-ea6a82dd7eaa" />
+
+-Details of sample property offered by us
+<img width="1920" height="1140" alt="Screenshot 2026-04-22 232317" src="https://github.com/user-attachments/assets/613c0a72-0869-4c05-ad7e-d1e502b9f572" />
+<img width="1920" height="1140" alt="Screenshot 2026-04-22 232345" src="https://github.com/user-attachments/assets/4bcc4715-223a-4f2d-97d0-e68b97d19800" />
+<img width="1920" height="1140" alt="Screenshot 2026-04-22 232359" src="https://github.com/user-attachments/assets/69202ba8-1e00-4713-8914-7dc925bfe533" />
+<img width="1920" height="1140" alt="Screenshot 2026-04-22 232412" src="https://github.com/user-attachments/assets/51da5daf-bdd9-41dc-ba58-88d63cc6335a" />
+
+
+
+
+
+
+
+
+
 
 
 ---
